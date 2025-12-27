@@ -1,6 +1,6 @@
 # compiled stuff
 *.o
-task_manager
+process_manager
 
 # editor files
 *.swp
