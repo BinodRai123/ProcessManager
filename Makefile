@@ -4,7 +4,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra -std=c99 -g
 LDFLAGS = -lncurses
 
-TARGET = task_manager
+TARGET = process_manager
 SRCS = main.c process_list.c ui.c
 OBJS = $(SRCS:.c=.o)
 
